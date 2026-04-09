@@ -4,7 +4,7 @@ export const Hero = () => {
       id="inicio"
       className="relative pt-20 pb-32 flex items-center min-h-[80vh]"
       style={{
-        backgroundImage: `url('src/assets/office.jpg')`,
+        backgroundImage: `url('/office.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

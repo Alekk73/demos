@@ -6,7 +6,7 @@ export const About = () => {
           <div className="w-full md:w-1/2 flex justify-center">
             <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full border-8 border-white shadow-2xl overflow-hidden bg-gray-300">
               <img
-                src="src/assets/dentist2.jpg"
+                src="/dentist2.jpg"
                 alt="Retrato del Doctor/a principal"
                 className="w-full h-full object-cover"
               />

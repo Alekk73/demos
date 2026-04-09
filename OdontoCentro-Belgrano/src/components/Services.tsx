@@ -3,25 +3,25 @@ export const Services = () => {
     {
       id: 1,
       name: "Ortodoncia",
-      src: "src/assets/orthodontics.jpg",
+      src: "/orthodontics.jpg",
       imgAlt: "Primer plano de brackets",
     },
     {
       id: 2,
       name: "Implantes",
-      src: "src/assets/implants.jpg",
+      src: "/implants.jpg",
       imgAlt: "Modelo de implante dental",
     },
     {
       id: 3,
       name: "Blanqueamiento",
-      src: "src/assets/teeth-whitening.jpg",
+      src: "/teeth-whitening.jpg",
       imgAlt: "Sonrisa con dientes blancos",
     },
     {
       id: 4,
       name: "Emergencia",
-      src: "src/assets/dental-emergencies.jpg",
+      src: "/dental-emergencies.jpg",
       imgAlt: "Paciente recibiendo limpieza dental",
     },
   ];
